@@ -1,0 +1,2 @@
+if warning_light_is_on = True:
+    service_required = True
