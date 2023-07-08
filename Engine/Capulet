@@ -1,0 +1,2 @@
+if last_service_mileage - current service mileage = 30000:
+    service_required = true
