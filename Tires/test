@@ -1,0 +1,10 @@
+import unittest
+from Tire.carrigan import carrigan
+from Tire.Octoprime import Octoprime
+
+class Testtire():
+  def TestCarriganTire(unitTest.testCase):
+    assertEqual(a,b,c,d, 0.9)
+
+  def testOctooprimeTire(unittest.testcase):
+    assertEqual(a,b,c,d, 3)
