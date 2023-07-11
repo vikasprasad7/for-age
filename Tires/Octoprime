@@ -1,1 +1,9 @@
+from tire import tire
 
+class Octoprime(Tire):
+  def __init__(self):
+    arrayValues(a,b,c,d)
+
+  def checkSum(self):
+    if a+b+c+d > 3:
+      needsService = True
