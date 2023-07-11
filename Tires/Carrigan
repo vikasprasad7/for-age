@@ -1,3 +1,9 @@
-class Tire():
-  def needs_service(self):
-    pass
+from tire import tire
+
+class CarriganTire(Tire):
+  def __init__(self):
+    arrayValues(a,b,c,d)
+
+  def checkSum(self):
+    if a+b+c+d > 0.9:
+      needsService = True
